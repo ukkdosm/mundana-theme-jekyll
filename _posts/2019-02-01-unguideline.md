@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Summary: Guidelines on eData Collection"
+author: adib
 categories: [ Article ]
 image: assets/images/unguideline-01.jpg
 ---
