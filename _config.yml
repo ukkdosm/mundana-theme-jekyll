@@ -19,10 +19,10 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    azmi:
+    Mr. Azmi Ali (The Boss). :
       name:           azmi
       site:           #
-      avatar:         /assets/images/azmi-02.jpeg
+      avatar:         /assets/images/azmi-02.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
       email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/wowthemesnet
@@ -38,7 +38,7 @@ authors:
     najmi:
       name:           najmi
       site:           #
-      avatar:         /assets/images/najmi-05.jpeg
+      avatar:         /assets/images/najmi-05.jpg
       bio:            "Data Scientist, designer, love to explore new ideas and write on every day coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
@@ -51,7 +51,7 @@ authors:
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
       
-    aishah:
+    Ms. Aishah Rahman.:
       name:           aishah
       site:           #
       avatar:         /assets/images/aishah-04.jpeg
