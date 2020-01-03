@@ -4,7 +4,11 @@ title:  "Welcome to StatsGen 4.0!"
 categories: [ About us ]
 image: assets/images/demo-01.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Unit Kajian Khas atau dikenali sebagai UKK adalah sebuah pasukan yang telah dibentuk bagi menjalankan tugas-tugas kajian khas di bawah seliaan Pejabat Ketua Perangkawan. Setiap tugasan, kajian dan laporan disediakan akan dilaporkan terus kepada Dato Sri Dr Perangkawan bagi 
+
+Tugasan unit menyeluruh merujuk kepada aspeks pentadbiran, keberkesanan pengurusan berkualiti, kesediaan sumber manusia di Jabatan, serta kajian berkenaan perbandingan pelaksanaan NSO lain dan UN.
+
+------
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
