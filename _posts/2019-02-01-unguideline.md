@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
-categories: [ Jekyll, tutorial ]
-image: assets/images/3.jpg
+title:  "Summary: Guidelines on eData Collection"
+categories: [ Article ]
+image: assets/images/unguideline-01.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor
 
