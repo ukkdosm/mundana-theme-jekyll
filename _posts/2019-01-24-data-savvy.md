@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Skills That Matter for Statistician"
-author: sal
+author: najmi
 categories: [ Jekyll, tutorial ]
 image: assets/images/4.jpg
 tags: [featured]
