@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    Mr. Azmi Ali (The Boss). :
+    azmi:
       name:           azmi
       site:           #
       avatar:         /assets/images/azmi-02.jpg
@@ -51,7 +51,7 @@ authors:
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
       
-    Ms. Aishah Rahman.:
+    aishah:
       name:           aishah
       site:           #
       avatar:         /assets/images/aishah-04.jpeg
