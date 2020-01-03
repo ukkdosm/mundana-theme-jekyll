@@ -2,7 +2,7 @@
 layout: post
 title:  "The Skills That Matter for Statistician"
 author: najmi
-categories: [ Jekyll, tutorial ]
+categories: [ NEXTGen, Dialog ]
 image: assets/images/dsavy-01.svg
 tags: [module]
 ---
