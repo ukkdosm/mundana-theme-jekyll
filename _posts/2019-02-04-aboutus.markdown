@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to StatsGen 4.0!"
-author: fatin
+author: aishah
 categories: [ About us ]
 image: assets/images/demo-01.jpg
 ---
