@@ -19,18 +19,18 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    azmi:
       name:           Mr. Azmi Ali (The Boss).
       site:           #
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/azmi-02.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
       email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 
-    jane:
+    fatin:
       name:           Ms. Fatin Ezzati.
       site:           #
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         /assets/images/fatin-01.jpeg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
@@ -38,23 +38,23 @@ authors:
     najmi:
       name:           Mr. Najmi Ariffin.
       site:           #
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/najmi-05.jpg
       bio:            "Data Scientist, designer, love to explore new ideas and write on every day coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 
-    jane:
+    adib:
       name:           Mr. Adib Azri.
       site:           #
-      avatar:         https://ukkdosm.github.io/dist/images/adib-03.jpeg
+      avatar:         /assets/images/adib-03.jpeg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
       
-    najmi:
+    aishah:
       name:           Ms. Aishah Rahman
       site:           #
-      avatar:         https://ukkdosm.github.io/dist/images/aishah-04.jpeg
+      avatar:         /assets/images/aishah-04.jpeg
       bio:            "Data Scientist, designer, love to explore new ideas and write on every day coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
