@@ -20,15 +20,15 @@ plugins:
   
 authors:
     azmi:
-      name:           Mr. Azmi Ali (The Boss).
+      name:           azmi
       site:           #
-      avatar:         /assets/images/azmi-02.jpg
+      avatar:         /assets/images/azmi-02.jpeg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
       email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 
     fatin:
-      name:           Ms. Fatin Ezzati.
+      name:           fatin
       site:           #
       avatar:         /assets/images/fatin-01.jpeg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
@@ -36,15 +36,15 @@ authors:
       twitter:        https://twitter.com/wowthemesnet
       
     najmi:
-      name:           Mr. Najmi Ariffin.
+      name:           najmi
       site:           #
-      avatar:         /assets/images/najmi-05.jpg
+      avatar:         /assets/images/najmi-05.jpeg
       bio:            "Data Scientist, designer, love to explore new ideas and write on every day coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 
     adib:
-      name:           Mr. Adib Azri.
+      name:           adib
       site:           #
       avatar:         /assets/images/adib-03.jpeg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
@@ -52,7 +52,7 @@ authors:
       twitter:        https://twitter.com/wowthemesnet
       
     aishah:
-      name:           Ms. Aishah Rahman
+      name:           aishah
       site:           #
       avatar:         /assets/images/aishah-04.jpeg
       bio:            "Data Scientist, designer, love to explore new ideas and write on every day coffee!"
