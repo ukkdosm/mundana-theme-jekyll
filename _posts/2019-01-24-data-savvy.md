@@ -3,7 +3,7 @@ layout: post
 title:  "The Skills That Matter for Statistician"
 author: najmi
 categories: [ Jekyll, tutorial ]
-image: assets/images/4.jpg
+image: assets/images/dsavy-01.svg
 tags: [summer]
 ---
 Data berada di mana-mana tidak kira sektor awam, sektor swasta, bidang perniagaan mahupun dalam kehidupan seharian. Ini bermakna data, keperluan aplikasi dan analisis data tersebut menjadi lebih penting dalam setiap jabatan, dari operasi kepada pengurusan juga kepada pasukan Research and Development (R & D).
