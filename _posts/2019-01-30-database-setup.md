@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Database Setup: Open & Closed Source Software?"
-author: aishah
+author: najmi
 categories: [ Article, NEXTGen ]
 image: assets/images/db-census2020.jpg
 ---
