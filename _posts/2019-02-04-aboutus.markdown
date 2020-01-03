@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to StatsGen 4.0!"
 author: aishah
 categories: [ About us ]
-image: assets/images/demo-01.jpg
+image: assets/images/teamukk.jpg
 ---
 Unit Kajian Khas atau dikenali sebagai UKK adalah sebuah pasukan yang telah dibentuk bagi menjalankan tugas-tugas kajian khas di bawah seliaan Pejabat Ketua Perangkawan. Setiap tugasan, kajian dan laporan disediakan akan dilaporkan terus kepada Dato Sri Dr Perangkawan bagi 
 
