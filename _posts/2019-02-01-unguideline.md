@@ -4,7 +4,7 @@ title:  "Summary: Guidelines on eData Collection"
 categories: [ Article ]
 image: assets/images/unguideline-01.jpg
 ---
-ere are several  challenges  that we need to face when conducting the population and housing census are falling participation rate, increase the data collection costs, declining in response rates as citizens become increasingly concerned about information security and privacy and the confidentiality of information given to the government, the households are becoming more diverse, dynamic and mobile, making it a challenge to reach people and assign them to a single unique location. 
+There are several  challenges  that we need to face when conducting the population and housing census are falling participation rate, increase the data collection costs, declining in response rates as citizens become increasingly concerned about information security and privacy and the confidentiality of information given to the government, the households are becoming more diverse, dynamic and mobile, making it a challenge to reach people and assign them to a single unique location. 
 
 Due to these challenges, there’s a need to have alternative ways when conducting the census where we need  to modernise and transform the traditional method of conducting a census, where we allow new approaches of the data collection using handheld electronic devices 
 and the internet. 
