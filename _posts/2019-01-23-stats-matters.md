@@ -13,11 +13,11 @@ Are you counting your daily steps? Are 5,000 enough for you — or maybe too man
 To re-emphasizing the 6 main points highlighted by our YBhg. Dato' Sri Dr. Mohd Uzir Mahidin. Chief Statistician Malaysia on his speech - of reading, proud (proud of duty & profession), knowledge, prudent and stay fit. Stay fit is one of the core elements to make sure we always prepared for our daily activities physically and mentally. From that point, that give us an idea to record our daily activity while attending Statistical Competencies Development Program (SCDP 2019) at Institut Latihan Statistik Malaysia (ILSM), Jabatan Perangkaan Malaysia, Sungkai, Perak for 4 months (currently 5 weeks).
 
 Methods:
-+ 1.	Step count is the number of steps recorded throughout the day using digital activity (build-in iPhone Apps). These devices count steps for any activity that involves step-like movement, including walking, running, stair-climbing and many more.
-+ 2.	All data were automatically recorded and extracted then transfer for analysis.
-+ 3.	Data visualization are perform using Tableau Public.
-+ 4.	Further analysis on data description, prediction was analyzed for better insight in the data.
-+ 5.	Discussion on insight of data as below:
++ Step count is the number of steps recorded throughout the day using digital activity (build-in iPhone Apps). These devices count steps for any activity that involves step-like movement, including walking, running, stair-climbing and many more.
++ All data were automatically recorded and extracted then transfer for analysis.
++ Data visualization are perform using Tableau Public.
++ Further analysis on data description, prediction was analyzed for better insight in the data.
++ Discussion on insight of data as below:
 ![walking]({{ site.baseurl }}/assets/images/statsm-01.png)
 
 On average, a SCDP 2019 participant walks `6,693 steps`  daily (median = 6,822) equal to 4.4km (median=4.1km), above the global average of `5,000 steps`. From the data, it can conclude that our activity during SCDP 2019 program give us astounding effect in term of daily health. More steps a day keeps the doctor away.
