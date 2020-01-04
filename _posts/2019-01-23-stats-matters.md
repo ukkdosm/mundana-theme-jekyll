@@ -4,6 +4,7 @@ title:  "How Statistics Matter in Daily Life"
 author: najmi
 categories: [ Article, tutorial ]
 image: assets/images/stats-matters.png
+tags: [featured]
 ---
 
 ## Daily Steps Counting to Stay Fit
