@@ -133,9 +133,13 @@ description: "Ready to understand and explore more about #Statistics and #Econom
     
 </div>
 <!-- countdown -->
-            <section class="countdown">
+<div class="container">
+  <div class="row">
+    <div class="col" style="background-color:skyblue;">
+      <!-- countdown BANCI -->
+            <center class="countdown">
                 <div class="container">                           
-                                <p class="hero-title mt-0">BANCI PENDUDUK DAN PERUMAHAN MALAYSIA 2020</p>		
+                                <h4 class="hero-title mt-0">Population and Housing Census Malaysia 2020</h4>		
                             
   <h3 id="countdown"></h3><br/>
 
@@ -168,8 +172,49 @@ var x = setInterval(function() {
 }, 1000);
 </script>
 
-                </div>
-            </section>
+                </center>
+    
+    <div class="col" style="background-color:gold;">
+      <!-- countdown BANCI -->
+            <center class="countdown">
+                <div class="container">                           
+                                <h4 class="hero-title mt-0">World Statistics Day 2020</h4>		
+                            
+  <h3 id="countdown2"></h3><br/>
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("October 20, 2020 00:00:00").getTime();
+// Update the count down every 1 second
+var x = setInterval(function() {
+  // Get today's date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+    
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Output the result in an element with id="countdown"
+  document.getElementById("countdown2").innerHTML = days + "days " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+    
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>
+
+                </center>
+    </div>
+  </div>
+</div>
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %} 
 {% if post.tags contains "sticky" %}
