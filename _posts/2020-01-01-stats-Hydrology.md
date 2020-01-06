@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cluster analysis: reveal key truths of Hydrology "
+title:  "Cluster analysis: reveal key truths of hydrology "
 author: aishah
 categories: [ Article, Dialog ]
 image: assets/images/hydro-01.jpg
