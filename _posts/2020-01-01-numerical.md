@@ -4,7 +4,7 @@ title:  "Statistics Uses Numerical Evidence to Draw Valid Conclusions"
 author: azmi
 categories: [ by Jim Frost, Article ]
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFbbVCn0MDcmFAPPgsNQ9Y4Eagx-E1z8QM0fSQTDK5FILNYyPQ
-
+tags: featured
 ---
 Statistics are not just numbers and facts. You know, things like 4 out of 5 dentists prefer a specific toothpaste. Instead, it’s an array of knowledge and procedures that allow you to learn from data reliably. Statistics allow you to evaluate claims based on quantitative evidence and help you differentiate between reasonable and dubious conclusions. That aspect is particularly vital these days because data are so plentiful along with interpretations presented by people with unknown motivations.
 
