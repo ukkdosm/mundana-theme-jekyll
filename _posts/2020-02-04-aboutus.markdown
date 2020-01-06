@@ -5,8 +5,8 @@ author: aishah
 categories: [ About us ]
 image: assets/images/teamukk.jpg
 ---
-Unit Kajian Khas atau dikenali sebagai UKK adalah sebuah pasukan yang telah dibentuk bagi menjalankan tugas-tugas kajian khas di bawah seliaan Pejabat Ketua Perangkawan. Setiap tugasan, kajian dan laporan disediakan akan dilaporkan terus kepada Dato Sri Dr Perangkawan bagi 
+Unit Kajian Khas atau dikenali sebagai UKK adalah sebuah pasukan yang telah dibentuk bagi menjalankan tugas-tugas kajian khas di bawah seliaan Pejabat Ketua Perangkawan. Setiap tugasan, kajian dan laporan disediakan akan dilaporkan terus kepada Dato' Sri Dr Perangkawan.
 
-Tugasan unit menyeluruh merujuk kepada aspeks pentadbiran, keberkesanan pengurusan berkualiti, kesediaan sumber manusia di Jabatan, serta kajian berkenaan perbandingan pelaksanaan NSO lain dan UN.
+Tugasan unit ini menyentuh fokus utama Jabatan seperti aspeks pentadbiran, keberkesanan pengurusan berkualiti, kesediaan sumber manusia, serta kajian berkenaan perbandingan pelaksanaan NSO negara lain dan United Nation (UN).
 
 ![walking]({{ site.baseurl }}/assets/images/ukkteam-02.jpg)
