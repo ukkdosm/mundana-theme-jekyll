@@ -3,7 +3,8 @@ layout: post
 title:  "Why Statistics Are Important "
 author: azmi
 categories: [ by  John Marsh, Article ]
-image: assets/images/7.jpg
+image: https://mir-s3-cdn-cf.behance.net/project_modules/disp/b804419370033.5602db826334d.png
+tags: featured
 ---
 `Why statistics are important in our life?` Statistics are the sets of mathematical equations that we used to analyze the things. It keeps us informed about, what is happening in the world around us. Statistics are important because today we live in the information world and much of this information’s are determined mathematically by `Statistics Help`. It means to be informed correct data and statics concepts are necessary. To be more specific about the importance of statistics in our life, here are 10 amazing reasons that we have heard on several occasions.
 
@@ -17,6 +18,8 @@ image: assets/images/7.jpg
 4) In financial market also statistic plays a great role. Statistics are the key of how traders and businessmen invest and make money.
 
 5) Statistics play a big role in the medical field. Before any drugs prescribed, scientist must show a statistically valid rate of effectiveness. Statistics are behind all the study of medical.
+
+![walking](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/83c6bf20364255.562ecbb048e21.jpg)
 
 6) Statistical concepts are used in quality testing. Companies make many products on a daily basis and every company should make sure that they sold the best quality items. But companies cannot test all the products, so they use statistics sample.
 
