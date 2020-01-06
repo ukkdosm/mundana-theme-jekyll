@@ -4,7 +4,7 @@ title:  "Centralised vs Decentralised Statistical System"
 author: adib
 categories: [ Article, Dialog ]
 image: assets/images/dcentralp.jpg
-tags: [featured]
+
 ---
 Statistical systems are described as either centralised or decentralised depending on the extent to which responsibility for delivering official statistics across the range of government activities lies with the central institution. There are strengths and weaknesses to both the centralised and the decentralised models.
 
