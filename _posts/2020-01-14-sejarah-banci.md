@@ -56,10 +56,10 @@ Pelaksanaan Banci Penduduk dan Perumahan ketiga pada 14 Ogos 1991.
 
 ---------------------------
 ### Tahun 2000:
-Pelaksanaan Banci Penduduk dan Perumahan ketiga pada 5 Julai 2000.
+Pelaksanaan Banci Penduduk dan Perumahan keempat pada 5 Julai 2000.
 
 ---------------------------
 ### Tahun 2010:
-Pelaksanaan Banci Penduduk dan Perumahan ketiga pada 6 Julai 2010.
+Pelaksanaan Banci Penduduk dan Perumahan kelima pada 6 Julai 2010.
 
 ---------------------------
