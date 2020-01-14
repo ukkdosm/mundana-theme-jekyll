@@ -19,7 +19,7 @@ Jika diimbas kembali, beberapa siri Banci Penduduk telah dilaksanakan di Malaysi
 
 ## Fasa 1:	Pelaksanaan Banci Penduduk Sebelum Pembentukan Malaysia.
 ---------------------------
-### Tahun 1981: 
+### Tahun 1891: 
 Banci pertama diadakan yang meliputi Negeri-negeri Selat, Negeri Melayu Bersekutu dan Borneo Utara (Sabah).
 
 ---------------------------
