@@ -19,19 +19,23 @@ Jika diimbas kembali, beberapa siri Banci Penduduk telah dilaksanakan di Malaysi
 
 ### Fasa 1:	Pelaksanaan Banci Penduduk Sebelum Pembentukan Malaysia.
 ---------------------------
-  > Tahun 1981: 
+## Tahun 1981: 
 Banci pertama diadakan yang meliputi Negeri-negeri Selat, Negeri Melayu Bersekutu dan Borneo Utara (Sabah).
+
 ---------------------------
-  > Tahun 1911: 
+## Tahun 1911: 
 Banci Penduduk yang turut meliputi Negeri Melayu Tidak Bersekutu.
+
 ---------------------------
-  > Tahun 1947: 
+## Tahun 1947: 
 Banci bagi Negeri Sarawak.
+
 ---------------------------
-  > Tahun 1957:
+## Tahun 1957:
 Banci Penduduk terakhir oleh Kerajaan British dan meliputi Persekutuan Tanah Melayu sahaja.
+
 ---------------------------
-  > Tahun 1960: 
+## Tahun 1960: 
 Pelaksanaan Banci Penduduk di Sabah dan Sarawak.
 
 ![Image of Yaktocat](https://i.ytimg.com/vi/kKblNQnP2BM/maxresdefault.jpg)
@@ -39,18 +43,23 @@ Pelaksanaan Banci Penduduk di Sabah dan Sarawak.
 
 ### Fasa 2: Pelaksanaan Banci Penduduk Selepas Pembentukan Malaysia.
 ---------------------------
-  > Tahun 1970: 
+## Tahun 1970: 
 Banci Penduduk dan Perumahan yang pertama bagi Malaysia. Pelaksanaan bancian Perumahan pada 27 Julai 1970 dan bancian Penduduk pada 25 Ogos 1970.
+
 ---------------------------
-  > Tahun 1980:
+## Tahun 1980:
 Pelaksanaan Banci Penduduk dan Perumahan kedua. Perumahan pada 17 Mei 1980 dan Penduduk pada 11 Jun 1980.
+
 ---------------------------
-  > Tahun 1991: 
+## Tahun 1991: 
 Pelaksanaan Banci Penduduk dan Perumahan ketiga pada 14 Ogos 1991.
+
 ---------------------------
-  > Tahun 2000:
+## Tahun 2000:
 Pelaksanaan Banci Penduduk dan Perumahan ketiga pada 5 Julai 2000.
+
 ---------------------------
-  > Tahun 2010:
+## Tahun 2010:
 Pelaksanaan Banci Penduduk dan Perumahan ketiga pada 6 Julai 2010.
+
 ---------------------------
