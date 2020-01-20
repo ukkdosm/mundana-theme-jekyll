@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Perkongsian Sejarah Pelaksanaan Banci di Malaysia"
+title:  "Sejarah Pelaksanaan Banci di Malaysia"
 author: azmi
 categories: [ Article, Banci 2020 ]
 image: http://farm4.static.flickr.com/3082/3140239094_d75f769fa6.jpg
