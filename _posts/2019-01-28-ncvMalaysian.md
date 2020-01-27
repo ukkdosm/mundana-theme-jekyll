@@ -34,7 +34,7 @@ The visual features assigned to a circle to represent its tweet's estimated sent
 **3. Sentiment Analysis Tool for Twitter** (`Twitter Crawler in the Python code`): <br>
 Within the social chatter being generated every second, there are vast amounts of hugely valuable insights waiting to be extracted. Twitter Crawler allows us to scrape tweets and store the tweets into a csv. then analyzes sentiments for tweets about “coronavirus in Malaysia”. 
 
-<iframe src="https://blackhole.bigcrunch.io/TheWebServer/odo/dGJjXzYwODI1MTZfNjIyNjI2MQ==?aspect=stretch" style="height:100%; width:100%; position: absolute; top:0px; left:0px" allow-fullscreen="true" frameborder="0"></iframe>
+<iframe src="https://blackhole.bigcrunch.io/TheWebServer/odo/dGJjXzYwODI1MTZfNjIyNjI2MQ==?aspect=stretch" width:"100%" height="400"></iframe>
 
 ### How we did it?
 <iframe src="https://drive.google.com/file/d/17_00lpi6_Zp5SGruazvmP7CdTMpgt9L9/preview" width="100%" height="440"></iframe>
