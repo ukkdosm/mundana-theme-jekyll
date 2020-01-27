@@ -14,8 +14,8 @@ The virus was first reported to the World Health Organization on `Dec. 31` and h
 ## **Malaysia Novel Coronavirus Update**
 Until January 26, 2020 - Out of the **23 cases** of PUI reported, there is only one positive `2019-nCoV` case of a 40-year-old Chinese citizen. Meanwhile, 18 cases of PUI were **negative** `(12 Malaysians, 5 Chinese and 1 Jordanian)` and had been discharged from the hospital. Considering the current situation, MOH continues to improve the prevention and control of the Novel Coronavirus infection outbreak. The MOH would also like to advise people who plan to visit China to postpone their travel except for important matters that cannot be avoided. 
 
-> **How worried are the experts?**<br>
-Prof Ball says: <br>"We should be worried about any virus that explores humans for the first time, because it's overcome the first major barrier. You don't want to give the virus the opportunity."
+### **How worried are the experts?**<br>
+> Prof Ball says: <br>"We should be worried about any virus that explores humans for the first time, because it's overcome the first major barrier. You don't want to give the virus the opportunity."
 
 ## How worried should Malaysian are?
 To answer that, we have performed simple analysis via different platforms as such:<br>
