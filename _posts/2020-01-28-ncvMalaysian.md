@@ -30,7 +30,7 @@ To answer that, we have performed simple analysis via different platforms as suc
 [![image4](https://ukkdosm.github.io/blog/assets/images/sentA04-441PM.JPG)](#)<br>
 The visual features assigned to a circle to represent its tweet's estimated sentiment: colour—blue for unpleasant, green for pleasant; brightness—brighter for more aroused; size and transparency—larger and more opaque for more confidence in the sentiment estimate
 
-**3. Sentiment Analysis Tool for Twitter** (`Twitter Crawler in the Python code`) <br>
+**3. Sentiment Analysis Tool for Twitter** (`Twitter Crawler in Python`) <br>
 Within the social chatter being generated every second, there are vast amounts of hugely valuable insights waiting to be extracted. Twitter Crawler allows us to scrape tweets and store the tweets into a csv. then analyzes sentiments for tweets about “coronavirus in Malaysia”. 
 
 <iframe src="https://dc8bsfv4udm20.cloudfront.net/odo/?id=dGJjXzYwODI1MTZfNjIyNjI2MQ" width="100%" height="400"></iframe>
