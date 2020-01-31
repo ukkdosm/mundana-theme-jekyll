@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Happy Federal Territory Day (1st February 2020)"
+title:  "Happy Federal Territory Day (Feb 1, 2020)"
 author: azmi
 categories: [ Article ]
-image: ./blog/assets/images/hfd2020-01.png
+image: https://ukkdosm.github.io/blog/assets/images/hfd2020-01.png
 
 ---
 The federal territories (Wilayah Persekutuan) in Malaysia comprise three territories: **Kuala Lumpur, Putrajaya and Labuan**, governed directly by the federal government of Malaysia. `Kuala Lumpur` is the national capital of Malaysia, Putrajaya is the administrative capital, and `Labuan` is an offshore international financial centre. Kuala Lumpur and `Putrajaya` are enclaves in the state of Selangor, while Labuan is an island off the coast of Sabah.
