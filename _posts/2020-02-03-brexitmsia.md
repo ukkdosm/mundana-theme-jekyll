@@ -6,7 +6,7 @@ categories: [ Article, Dialog ]
 image: https://mir-s3-cdn-cf.behance.net/project_modules/1400/3be3fe70096893.5b97f925af113.jpg
 
 ---
-It’s official – Britain votes to leave the EU. London, Scotland, and Northern Ireland stood clearly in the Remain camp, while the rest of England and Wales, Italy, France, Holland and Denmark could follow in the lead of Brexit. Britain officially divorce from the EU on Jan 31 after nearly half a century of membership. 
+It’s official – Britain votes to leave the EU. London, Scotland, and Northern Ireland stood clearly in the Remain camp, while the rest of England and Wales, Italy, France, Holland and Denmark could follow in the lead of `Brexit`. Britain officially divorce from the EU on Jan 31 after nearly half a century of membership. 
 
 ### What’s Brexit?
 A portmanteau of “British” or “Britain” and “exit”. A referendum was held to decide whether Britain should remain or leave the European Union. Nearly everyone of voting age can take part.
@@ -16,12 +16,12 @@ The EU is an economic and political partnership involving 28 European countries,
 
 ## How will this affect Malaysia?
 > “This will affect not only UK-Malaysia but also relations between Asean and Europe in business, trade, investment and tourism. When people are uncertain, they won’t make business decision easily. They will wait for the uncertainty to blow over until the situation has stabilised.” 
-– Tan Sri Ramon Navaratnam, Former Finance Ministry deputy secretary-general.
+`– Tan Sri Ramon Navaratnam, Former Finance Ministry deputy secretary-general.`
 
 > UK leaves the EU and charts a new course for its country, it is presented with "a great opportunity" to reach out and forge even stronger ties with its longstanding partners such as Malaysia.  We want to do more with Malaysia and there is so much more we can achieve together across a spectrum of areas including trade, education, science and technology, defence, security, tackling climate change just to name a few.
-– British High Commissioner to Malaysia Charles Hay
+`– British High Commissioner to Malaysia Charles Hay`
 
-> Barjoyai said, Brexit will impact the global economy — in terms of trade barriers, immigration, as well as the general financial and fiscal aspects. It will be advantageous for Malaysia if Brexit is called off, as the deal will affect the UK’s economy negatively.
+> `Barjoyai` said, Brexit will impact the global economy — in terms of trade barriers, immigration, as well as the general financial and fiscal aspects. It will be advantageous for Malaysia if Brexit is called off, as the deal will affect the UK’s economy negatively.
 
 ### Quick Info
 <iframe title="People-to-people relationship | UK-Malaysia" aria-label="Long Table" id="datawrapper-chart-y1OFB" src="//datawrapper.dwcdn.net/y1OFB/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="351"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
