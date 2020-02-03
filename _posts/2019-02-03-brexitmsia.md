@@ -34,6 +34,8 @@ The short-term impact of Brexit, the UK will be a favourable destination for our
 
 Brexit matters to Malaysia because Asean matters to Malaysia. The Malaysian aspiration to be the hub of Asean will be throttled if Asean does not take off. The trade revolution may well happen soon, who knows?
 
+![factbrexit](https://lh3.googleusercontent.com/-0K-ym3XomO8/XjfIWMbRJqI/AAAAAAAAAHM/E1--m07T1Fc3WfFv-xu11BqPUaKfW7jawCK8BGAsYHg/s0/2020-02-02.jpg) 
+
 #MenghitungMalaysia<br>
 #StatsMalaysia<br>
 #MyCensus2020<br>
