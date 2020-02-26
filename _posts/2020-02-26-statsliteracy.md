@@ -64,9 +64,9 @@ Headlines should capture the attention because readers most likely to read the h
 
 **Headlines should:**
 *	Be informative, appealing, magnetic, interesting and newsy and incorporate:<br>
-- [x] the highest since, the lowest since...<br>
-- [x] something new <br>
-- [x] the first time, a record, a continuing trend <br>
+ [x] `the highest since, the lowest since...`
+ [x] `something new`
+ [x] `the first time, a record, a continuing trend`
   
 *	Make you want to read the story, not scare you off
 *	Summarize the most important finding
@@ -84,7 +84,6 @@ Good statistical graphic:
 *	Present logical visual pattern
 
 [![graphgif](https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif)](#)
-
 Let the data determine the type of graph. For example, use a line graph for data over time or a bar graph for categorical data.
 Achieve clarity in your graphics by:
 *	Using solids rather than patterns for line styles and fills
