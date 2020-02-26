@@ -63,10 +63,10 @@ Headlines should capture the attention because readers most likely to read the h
 [![headlinesgif](https://media.giphy.com/media/26tnlqgsV9gbihbO0/giphy.gif)](#)
 
 **Headlines should:**
-*	Be informative, appealing, magnetic, interesting and newsy and incorporate:<br>
- [x] `the highest since, the lowest since...`
- [x] `something new`
- [x] `the first time, a record, a continuing trend`
+*	Be informative, appealing, magnetic, interesting and newsy and incorporate:
+ [x] `the highest since, the lowest since...`<br>
+ [x] `something new`<br>
+ [x] `the first time, a record, a continuing trend`<br>
   
 *	Make you want to read the story, not scare you off
 *	Summarize the most important finding
