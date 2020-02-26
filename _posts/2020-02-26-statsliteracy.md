@@ -64,9 +64,10 @@ Headlines should capture the attention because readers most likely to read the h
 
 **Headlines should:**
 *	Be informative, appealing, magnetic, interesting and newsy and incorporate:<br>
--	the highest since, the lowest since...<br>
--	something new <br>
--	the first time, a record, a continuing trend <br>
+  *	the highest since, the lowest since...<br>
+  * something new <br>
+  * the first time, a record, a continuing trend <br>
+  
 *	Make you want to read the story, not scare you off
 *	Summarize the most important finding
 *	Be no longer than one line of type
