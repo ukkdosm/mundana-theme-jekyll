@@ -22,6 +22,7 @@ Here the possible themes or topics:
 [![inpyramid](https://studentmedia.appstate.edu/images/filecabinet/folder1/Inverted_Pyramid.jpg)](#)
 
 ## The “inverted pyramid”
+
 Journalists use the "inverted pyramid" techniques in their writing. The "inverted pyramid" technique is writing a conclusion at the beginning of the story followed by secondary points in order of decreasing importance throughout the text. Contrary to analytical writing, the writers start with the thesis that they want to prove followed by the methodology and data, the analysis and the conclusion at the end.
 
 ### The lead: The first paragraph
@@ -31,10 +32,8 @@ The first paragraph or the lead is the most important element of the story. The 
 The lead should contain a few numbers and the writing of the first sentence is better without using any figures. Do not try to summarise the whole report. Rather, provide the most important and interesting facts. Avoid writing the assumptions, explanations of methodology or information on how you collected the data in the first paragraph.
 
 Here the example to write a lead:
+[![f1](https://lh3.googleusercontent.com/-W_8ew75P-zU/XlZFWnxDZzI/AAAAAAAAD9Y/um20_6yax-oCSXtYGbvUxk6Y18YYZdwRACK8BGAsYHg/s0/2020-02-26.jpg)](#)
 
-Good | Poor
------------- | -------------
-Despite mounting financial challenges during the 1990s, young people from moderate and low-income families were no less likely to attend university in 2001 than they were in 1993, according to a new study. | A new study probes the relationship between parental education and income and participation in post-secondary education from 1993 to 2001.
 
 **Tips:**
 * Focus on one or two findings
@@ -53,15 +52,7 @@ Example:
 
 **Tips:**
 
-Use | Avoid
------------- | -------------
-Language that people understand | “Elevator statistics”: This went up, this went down, this went up
-Subheadings to guide the reader’s eye | Jargon and technical terms
-Simple language | Acronyms
-Bulleted lists for easy scanning  | All capital letters and all italics: Mixed upper and lower case is easier to read
-Active voice. “We found that...”, not: “It was found that...” | “Table reading”, that is, describing every cell of a complex table in your text
-Rounded number | 
-Numbers in a consistent fashion: For example, choose 20 or twenty | 
+[![f2](https://lh3.googleusercontent.com/-uLgyjg7awBk/XlZFXdCmHBI/AAAAAAAAD9c/n3ZTm42yyUIb1GdQND06FNLwoVZ8rOMaACK8BGAsYHg/s0/2020-02-26.jpg)](#)
 
 `Poor`:	From January to August, the total square metres of utility floor space building starts rose by 20.5% from January to August period last year
 
@@ -72,11 +63,10 @@ Headlines should capture the attention because readers most likely to read the h
 [![headlinesgif](https://media.giphy.com/media/26tnlqgsV9gbihbO0/giphy.gif)](#)
 
 **Headlines should:**
-*	Be informative, appealing, magnetic, interesting and newsy and incorporate:
-**	the highest since, the lowest since...
-**	something new
-**	the first time, a record, a continuing trend
-
+*	Be informative, appealing, magnetic, interesting and newsy and incorporate:<br>
+-	the highest since, the lowest since...<br>
+-	something new <br>
+-	the first time, a record, a continuing trend <br>
 *	Make you want to read the story, not scare you off
 *	Summarize the most important finding
 *	Be no longer than one line of type
@@ -84,11 +74,7 @@ Headlines should capture the attention because readers most likely to read the h
 *	Contain few numbers, if any at all
 *	Have a verb or implied verb
 
-Good | Poor
------------- | -------------
-Gasoline prices hits 10-year low | New report released today (the report is not the news)
-Crime down for third year in a row | Energy conservation measures widespread (too vague)
-July oil prices levelled off in August | Prices up in domestic and import markets (what prices?)
+[![f3](https://lh3.googleusercontent.com/-pcjolDP2Qyk/XlZFYb5blRI/AAAAAAAAD9g/3OsDgiF3dzMmx9PmPFErHwhpwn24jvdhgCK8BGAsYHg/s0/2020-02-26.jpg)](#)
 
 ### Graphs
 Good statistical graphic:
