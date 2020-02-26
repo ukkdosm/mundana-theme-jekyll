@@ -63,7 +63,7 @@ Headlines should capture the attention because readers most likely to read the h
 [![headlinesgif](https://media.giphy.com/media/26tnlqgsV9gbihbO0/giphy.gif)](#)
 
 **Headlines should:**
-*	Be informative, appealing, magnetic, interesting and newsy and incorporate:
+*	Be informative, appealing, magnetic, interesting and newsy and incorporate:<br>
  [x] `the highest since, the lowest since...`<br>
  [x] `something new`<br>
  [x] `the first time, a record, a continuing trend`<br>
