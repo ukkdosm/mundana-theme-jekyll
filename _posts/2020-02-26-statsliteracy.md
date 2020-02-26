@@ -3,7 +3,7 @@ layout: post
 title:  "How to Write a Statistical Story"
 author: adib
 categories: [ article, NEXTGen ]
-image: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4cac2056026413.599d5aa75b531.jpg
+image: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c017a855935255.5999b502f14d5.png
 ---
 
 Writer should write a story by think in terms of issues or themes and need to find meaning in the statistics. Writer must be aware that technical report is not a story, nor is there a story in conducting survey. A story tells the reader briefly what you found and why your findings are important to the reader. The article becomes more interesting if the readers feel that the information they received may affect their life.
@@ -27,7 +27,6 @@ Journalists use the "inverted pyramid" techniques in their writing. The "inverte
 ### The lead: The first paragraph
 
 The first paragraph or the lead is the most important element of the story. The writer should not introduce the story in the first paragraph, but to tell a story about the data concisely, clearly and simply. The lead must grab the reader’s attention and help the reader to capture the general message of the data. 
-[![writing](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c017a855935255.5999b502f14d5.png)](#)
 
 The lead should contain a few numbers and the writing of the first sentence is better without using any figures. Do not try to summarise the whole report. Rather, provide the most important and interesting facts. Avoid writing the assumptions, explanations of methodology or information on how you collected the data in the first paragraph.
 
