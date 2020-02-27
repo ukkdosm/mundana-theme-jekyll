@@ -96,3 +96,5 @@ Achieve clarity in your graphics by:
 ### Tables
 Numbers easily digestible if presentation table rank data by order or other hierarchies. They show the figures that are the highest and the lowest, as well as other outliers. Large complex tables are appropriate to place in supporting material. While graphics should be accompanied by an analytical heading, titles are preferred for table. They should be short and describe the table's precise topic or message.
 
+**Source:**
+* [A guide writing stories about numbers, United Nation Economic Comission for Europe (UNECE)](https://www.unece.org/fileadmin/DAM/stats/documents/writing/MDM_Part1_English.pdf)
