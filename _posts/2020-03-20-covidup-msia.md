@@ -9,7 +9,7 @@ image: https://pbs.twimg.com/media/ETMgVYiUYAEKSAU?format=jpg&name=large
 From East to West, cities feel the impact of the Covid-19 virus, as governments around the world take drastic measures to keep people indoors.
 
 ## What happen due to Covid-19 virus
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Hs14cxQuccs?start=32" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/Hs14cxQuccs?start=32" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ___
 
@@ -27,9 +27,10 @@ ___
 
 <center>
 <blockquote class="twitter-tweet"><p lang="in" dir="ltr">Hentikan Penularan COVID-19 <a href="https://t.co/db7rZz2Ksc">pic.twitter.com/db7rZz2Ksc</a></p>&mdash; Muhyiddin Yassin (@MuhyiddinYassin) <a href="https://twitter.com/MuhyiddinYassin/status/1240803124454936579?ref_src=twsrc%5Etfw">March 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
 
 [![covid02](https://pbs.twimg.com/media/ETRyZzzUUAA0SOo?format=jpg&name=medium)](#)
-</center>
+
 
 **Reference:**
 * [https://newslab.malaysiakini.com/covid-19/en](https://newslab.malaysiakini.com/covid-19/en)
