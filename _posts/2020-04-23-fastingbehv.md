@@ -11,7 +11,7 @@ Sempena kedatangan bulan puasa ini team UKK@DOSM memperkenalkan satu platform ba
 
 ## 2-MINUTES Survei Ringkas UKK@DOSM
 
-<iframe id="tripetto" style="width: 400px; height: 600px; border: 0;"></iframe>
+<iframe id="tripetto" style="width: 100%; height: 1200px; border: 0;"></iframe>
 <script>
 var tripettoElement = document.getElementById("tripetto");
 var tripettoDoc = tripettoElement.contentWindow || tripettoElement.contentDocument.document || tripettoElement.contentDocument;
