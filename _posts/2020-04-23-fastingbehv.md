@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2-MINUTES Survei Ringkas UKK@DOSM - Manfaat Berpuasa"
+title:  "2-MINUTES Survei Ringkas - Manfaat Berpuasa"
 author: najmi
 categories: [ Study ]
 image: https://lh3.googleusercontent.com/-swlWBR1u1UM/XqE2hWimsZI/AAAAAAAAEAM/HWXjlaBkztoCgYVuYDVT4JSqDVjxzfwQgCK8BGAsYHg/s0/2020-04-22.png
