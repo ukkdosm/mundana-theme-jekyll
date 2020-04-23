@@ -5,7 +5,7 @@ author: najmi
 categories: [ Study ]
 image: https://lh3.googleusercontent.com/-swlWBR1u1UM/XqE2hWimsZI/AAAAAAAAEAM/HWXjlaBkztoCgYVuYDVT4JSqDVjxzfwQgCK8BGAsYHg/s0/2020-04-22.png
 ---
-Sempena kedatangan bulan puasa ini team UKK@DOSM memperkenalkan satu platform bagi mengkaji kebaikan berpuasa di kalangan penduduk di Malaysia. Survei ini ingin melihat keberkesanan manfaat/amalan berpuasa kepada setiap individu. 'Puasa' dalam konteks kajian ini tidak hanya merujuk kepada amalan berpuasa di bulan Ramadhan untuk orang muslim sahaja, tetapi juga boleh ditafsir sebagai _Intermittent Fasting_ untuk yang bukan muslim.
+Sempena kedatangan bulan puasa ini team UKK@DOSM memperkenalkan satu platform bagi mengkaji kebaikan berpuasa di kalangan penduduk di Malaysia. Survei ini ingin melihat keberkesanan manfaat/amalan berpuasa kepada setiap individu. 'Puasa' dalam konteks kajian ini tidak hanya merujuk kepada amalan berpuasa di bulan Ramadan untuk orang muslim sahaja, tetapi juga boleh ditafsir sebagai _Intermittent Fasting_ untuk yang bukan muslim.
 
 > Mohon luangkan masa anda 2 minit untuk memberi respon ringkas menerusi online survei ini. 
 
