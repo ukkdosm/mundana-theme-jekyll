@@ -3,7 +3,7 @@ layout: post
 title:  "COVID-19: Malaysia Census 2020 rescheduled"
 author: najmi
 categories: [ Article ]
-image: https://apicms.thestar.com.my/uploads/images/2020/10/05/886967.jpg
+image: https://lh3.googleusercontent.com/-bfvJm2TglmM/X4O-rosP8II/AAAAAAAAAPk/WZbg2VmQ6oAnU-qeUKdyA4ghFshavQMKwCK8BGAsYHg/s0/2020-10-11.jpg
 tags: [sticky]
 
 ---
