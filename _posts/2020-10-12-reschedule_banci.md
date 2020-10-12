@@ -4,6 +4,7 @@ title:  "COVID-19: Malaysia Census 2020 rescheduled"
 author: najmi
 categories: [ Article ]
 image: https://apicms.thestar.com.my/uploads/images/2020/10/05/886967.jpg
+tags: [sticky]
 
 ---
 The population and housing data is very important for the government to formulate policies for the well-being of the nation. This is to ensure that every plan meets the needs of the target groups and no one is left out.
