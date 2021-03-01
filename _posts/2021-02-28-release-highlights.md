@@ -8,7 +8,7 @@ image: https://assets.entrepreneur.com/content/3x2/2000/write-press-release-gets
 
 DOSM’s Recent Releases: February 2021
 
-## MALAYSIAN ECONOMIC STATISTICS REVIEW (MESR), VOLUME 2/2021 – 25th February 2021
+## [MALAYSIAN ECONOMIC STATISTICS REVIEW (MESR), VOLUME 2/2021 – 25th February 2021](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=481&bul_id=czAyMkpIRUhQbVpBVXdDNUlLUUhOUT09&menu_id=azJjRWpYL0VBYU90TVhpclByWjdMQT09)
 
 Malaysian Economic Statistics Review (MESR) Volume 2/2021 provides the Malaysia’s economic situation in the fourth quarter of 2020 (Q4 2020) as well as overall performance for the year 2020. Further to the extensive narrative based on short term statistics, MESR also delved on focus issues to come out with featured articles. Thus, in this MESR an article entitled “The increasing trend of re-exports” is included.
 
