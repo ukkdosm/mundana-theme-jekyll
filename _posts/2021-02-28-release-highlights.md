@@ -3,7 +3,7 @@ layout: post
 title:  "DOSM’s Recent Releases: February 2021"
 author: azmi
 categories: [ article ]
-image: #
+image: https://assets.entrepreneur.com/content/3x2/2000/write-press-release-gets-noticed.jpg
 ---
 
 DOSM’s Recent Releases: February 2021
