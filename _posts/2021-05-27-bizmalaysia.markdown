@@ -10,7 +10,7 @@ What are the most business friendly, balance stability and expense countries?.
 
 #### DOING BUSINESS IN MALAYSIA
 
-<iframe src="https://adb-viz2020.netlify.app/interactive.columnfivemedia.com/lucidworks/dark-data/index.html" style="width: 730px; border: 0" />
+<iframe src="https://adb-viz2020.netlify.app/interactive.columnfivemedia.com/lucidworks/dark-data/index.html" style="width: 730px; height: 1200px; border: 0" />
 
 
 #KitaJagaKita
