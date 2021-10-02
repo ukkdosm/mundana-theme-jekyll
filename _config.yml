@@ -84,7 +84,7 @@ highlighter: rouge
 paginate: 10
 
 # Google Adsense
-google_ad_client: ca-pub-7213201677236038
+google_ad_client: ca-pub-9760879336885285
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
