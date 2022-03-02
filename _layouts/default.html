@@ -32,6 +32,8 @@
 
     {% include tracking-header.html %}
 	<script src="lazysizes.min.js" async></script>
+	
+	{% if site.google_tracking %} {% include google_analytics.html %} {% endif %}
 
 </head>
 
