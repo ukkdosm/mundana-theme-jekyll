@@ -86,5 +86,8 @@ paginate: 10
 # Google Adsense
 google_ad_client: ca-pub-9760879336885285
 
+# Google Analytics
+google_tracking_id: UA-155273911-3
+
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
